@@ -39,3 +39,14 @@ p {
     text-align: center;
     background-color:white;
 }
+
+.jumbo {
+    border: 1px solid black;
+    width: 1174px;
+    height: 200px;
+}
+
+.image {
+    width: 1174px;
+    height: 200px;
+}
