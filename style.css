@@ -16,14 +16,14 @@ h1 {
 
 div {
     border: 1px solid black;
-    width: 360px;
+    width: 340px;
     height: 200px;
     display: inline-block;
 }
 section {
     margin: 20px;
     padding: 5px;
-    display: inline-block;
+    ;
 }
 div {
     background-color: white;
@@ -38,4 +38,10 @@ p {
 .centered-text {
     text-align: center;
     background-color:white;
+}
+
+.jumbo {
+    border: 1px solid black;
+    height: 200px;
+    background-image: url("./images/jumbotron-background.jpeg");
 }
