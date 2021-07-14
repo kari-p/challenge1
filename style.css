@@ -1,0 +1,36 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+h1 {
+    color: #ea97d6;
+    font-size: 64px;
+    text-decoration: underline;
+}
+div {
+    border: 5px solid black;
+    width: 300px;
+    height: 150px;
+    display: inline-block;
+}
+section {
+    background-color: aquamarine;
+    margin: 40px;
+    padding: 5px;
+    border: 5px solid red;
+    display: inline-block;
+}
+div {
+    background-color: blueviolet;
+    border: 5px solid black;
+    padding: 8px;
+    margin: 30px 10px 40px 0px;
+    /* margin-top: 30px;
+    margin-right: 20px;
+    margin-bottom: 10px; */
+}
+p {
+    background-color: white;
+    border: 2px solid red;
+    padding: 2px;
+}
